@@ -6,7 +6,7 @@ gem 'rails', '3.2.0'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-
+gem 'devise'
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -28,7 +28,7 @@ gem 'jquery-rails'
 # To use Jbuilder templates for JSON
 # gem 'jbuilder'
 
-# Use unicorn as the web server
+# Use unicorn as the web serv
 # gem 'unicorn'
 
 # Deploy with Capistrano
@@ -36,3 +36,5 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
+
+
